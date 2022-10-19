@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Graduated in the Computer Graphics field with the "Image, Development and 3D Technologies" Master's degree, I'm looking for a job in Canada (QC) or in Lyon (France) as videogame programmer or as engineer in computer graphics.
+
+As a Minecraft fan, I also create mods during my free time. What I like in this, is to be able to create and to make people happy by communicating with them about a topic that we both love. This would be a pleasure to achieve the same thing for any videogame as a job.
+
 <!--
 **charlyb01/charlyb01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
