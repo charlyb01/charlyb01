@@ -1,8 +1,12 @@
-### Hi there 👋
+### 👋 Hi there, I'm Charly
 
-Graduated in the Computer Graphics field with the "Image, Development and 3D Technologies" Master's degree, I'm looking for a job in Canada (QC) or in Lyon (France) as videogame programmer or as engineer in computer graphics.
+Graduated in the Computer Graphics, I'm looking for a job as a **C++ Developer** in Canada (QC).
 
-As a Minecraft fan, I also create mods during my free time. What I like in this, is to be able to create and to make people happy by communicating with them about a topic that we both love. This would be a pleasure to achieve the same thing for any videogame as a job.
+As a Minecraft fan, I also create mods during my free time. What I like in this, is to be able to create and to make people happy by communicating with them about a topic that we both love. This would be a pleasure to achieve the same thing for any videogame as a job, or any other subject that would fascinate me.
+
+### 📫 How to reach me
+
+Email: charly5bollinger@gmail.com
 
 <!--
 **charlyb01/charlyb01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
