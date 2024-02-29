@@ -13,8 +13,8 @@ subject that would fascinate me, such as ***geometric modeling***, ***procedural
 
 * [GitHub](https://github.com/charlyb01): you're here! But feel free to check also my
   organization page, where I am making Minecraft mods (see [SF Inc](https://github.com/sf-inc))
-* [Kitware GitLab](https://gitlab.kitware.com/charly.bollinger): my GitLab account for when I was
-  working at *[Kitware](https://www.kitware.com/)*, to see my contributions to VTK and ParaView
+* [Kitware GitLab](https://gitlab.kitware.com/charly.bollinger): see my contributions to VTK
+  and ParaView, when I was working at *[Kitware](https://www.kitware.com/)*
 * [Gravital](https://xardinlume.itch.io/gravital): a short gravity-based puzzle game, made as
   a one month-long school project without supervision in Unity
 * [Modrinth](https://modrinth.com/user/Pardys): if you're interested in my Minecraft mods
