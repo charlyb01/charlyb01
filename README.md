@@ -21,8 +21,8 @@ subject that would fascinate me, such as ***geometric modeling***, ***procedural
 
 ### 📫 How to reach me
 
-**Email:** charly5bollinger@gmail.com
-
+* **Email:** charly5bollinger@gmail.com
+* **LinkedIn:** [Charly Bollinger](https://www.linkedin.com/in/charly-bollinger/)
 
 <!--
 **charlyb01/charlyb01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
